@@ -1,6 +1,6 @@
 /// @DnDAction : YoYo Games.Data Structures.Create_List
 /// @DnDVersion : 1
-/// @DnDHash : 3257C7DD
+/// @DnDHash : 48F3F3DF
 /// @DnDInput : 6
 /// @DnDArgument : "var" ""
 /// @DnDArgument : "var_1" ""
