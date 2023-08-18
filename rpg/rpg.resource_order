@@ -17,13 +17,15 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_sand","order":3,"path":"objects/obj_sand/obj_sand.yy",},
     {"name":"obj_conveyor_corner","order":1,"path":"objects/obj_conveyor_corner/obj_conveyor_corner.yy",},
-    {"name":"Sprite7","order":6,"path":"sprites/Sprite7/Sprite7.yy",},
+    {"name":"obj_drill","order":2,"path":"objects/obj_drill/obj_drill.yy",},
     {"name":"spr_silicon","order":1,"path":"sprites/spr_silicon/spr_silicon.yy",},
+    {"name":"spr_coal","order":6,"path":"sprites/spr_coal/spr_coal.yy",},
     {"name":"spr_waterpump","order":3,"path":"sprites/spr_waterpump/spr_waterpump.yy",},
     {"name":"spr_conveyor","order":2,"path":"sprites/spr_conveyor/spr_conveyor.yy",},
-    {"name":"Sprite8","order":7,"path":"sprites/Sprite8/Sprite8.yy",},
     {"name":"spr_sanditem","order":5,"path":"sprites/spr_sanditem/spr_sanditem.yy",},
+    {"name":"obj_coal","order":4,"path":"objects/obj_coal/obj_coal.yy",},
     {"name":"spr_copperdrill","order":4,"path":"sprites/spr_copperdrill/spr_copperdrill.yy",},
   ],
 }
