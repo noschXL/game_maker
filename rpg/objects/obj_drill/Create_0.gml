@@ -2,6 +2,7 @@ items = 0;
 ores = [];
 sand = 0;
 coal = 0;
+duration = 0;
 for (var i = 0; i == 4; i += 1) {
 	if (i == 0){
 		if place_meeting(x,y, obj_sand) {
@@ -46,8 +47,11 @@ if (sand == 0 and coal == 0) {
 	mining = 0;
 	mining_spd = sand * 0.12;
 }else if (sand < coal) {
-	mining = 1 * 0.12;
+	mining = 1;
 	mining_spd = coal;
+}else if (sand == coal) {
+	mining = 1;
+	mining_spd  = coal * 0.12;
 }
 
 
